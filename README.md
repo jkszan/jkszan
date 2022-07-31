@@ -33,13 +33,13 @@ Learning About:
 
 Proud of:
 -
-- <a href="https://github.com/jkszan/shopify-CRUD-Challenge">Flask/Postgres Inventory Management System</a>
+- <a href="https://github.com/jkszan/Inventory-Management-API">Flask/Postgres Inventory Management API</a>
 - <a href="https://github.com/jkszan/Review-Analyzer">Selenium-Based Proof of Concept Glassdoor Webscraper</a>
 
 
 What's Next?:
 -
-- I'm currently looking for an Automation / Cloud Engineering internship for the Fall 2022 term
+- I'm currently looking for a Software Engineering internship for the Fall 2022 term
 - Scouting out large-scale project ideas for my capstone (and potentially masters degree)
 
 
